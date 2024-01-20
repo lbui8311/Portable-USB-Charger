@@ -6,7 +6,7 @@ This project aims to create a portable power bank called the LeBox, designed to 
 
 # Contributors
 1. Luan Bui (Computer Engineer)
-2. Jesus Sandoval (Computer Engineer)
+2. [Jesus Sandoval](https://github.com/iesus-s?tab=followers) (Computer Engineer)
 3. Nghi Do (Electrical Engineer)
 4. Rodrigo Equihua (Electrical Engineer)
 5. Jacob Kelchner (Electrical Engineer)
